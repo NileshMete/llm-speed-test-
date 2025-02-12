@@ -63,7 +63,7 @@ Feel free to **fork the repository**, make improvements, and submit a **pull req
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License**.  
+This project is licensed under the **GPL-3.0 license**.  
 
 ---
 
